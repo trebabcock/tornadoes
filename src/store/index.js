@@ -2,7 +2,7 @@ import Vue from "vue";
 import Vuex from "vuex";
 
 const axios = require("axios");
-axios.defaults.baseURL = "http://localhost:2814/api/v1";
+axios.defaults.baseURL = "https://tor-api.trebabcock.me/api/v1";
 
 Vue.use(Vuex);
 
