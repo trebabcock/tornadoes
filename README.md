@@ -1,4 +1,7 @@
-# tornadoes
+# Tornadoes
+This project is currently hosted at https://tor.trebabcock.me
+
+Loading all tornadoes at the same time is not recommended, but you do you.
 
 ## Project setup
 ```
